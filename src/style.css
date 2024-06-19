@@ -1,0 +1,53 @@
+:root {
+  --bg: #171717;
+  --primary: #212121;
+  --sec: #87ae73;
+  --textColor: #fff;
+  --accent: #617557;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  background: var(--bg);
+  color: var(--textColor);
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+aside {
+  position: fixed;
+  left: 8%;
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--grey-100);
+}
