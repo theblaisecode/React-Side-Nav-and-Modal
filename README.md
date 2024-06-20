@@ -1,5 +1,5 @@
 # React Side-Nav and Modal Pop-Up
-A simple responsive Side-Nav and Modal pop-up built using React JS & Vite.
+A simple responsive Side-Nav and Modal pop-up built using React JS & Vite
 
 Live Website - https://theblaisecode.github.io/React-Side-Nav-and-Modal
 
